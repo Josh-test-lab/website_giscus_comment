@@ -1,2 +1,2 @@
 # website_giscus_comment
-my website comment by giscus
+my website comment system by giscus
